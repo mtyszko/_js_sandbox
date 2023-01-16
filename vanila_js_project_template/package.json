@@ -1,0 +1,11 @@
+{
+	"name": "vanila_js_project_template",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "live-server --port=3001"
+	},
+	"author": "mtyszko",
+	"license": "BSD 3-Clause License"
+}
